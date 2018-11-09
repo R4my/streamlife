@@ -60,7 +60,7 @@ var prefix = "*"
           message.delete(5000);
         });
     }
-});
+
 
 });
 client.login(process.env.BOT_TOKEN);
